@@ -17,5 +17,5 @@ Create an array of 4 numbers and print the sum of the numbers.
 Use any loop to print all numbers between 0 and 100 that's a multiple of 4. Hint: You can find multiples of 4 with (number % 4 == 0)
 
 ## Extra-ish Credit
-###Password Checker
+### Password Checker
 Ask the user to enter a password. Ask them to confirm the password. If it's not equal, keep asking until it's correct or they enter q to quit.
