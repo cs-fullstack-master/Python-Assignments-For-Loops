@@ -1,5 +1,5 @@
-# Python-Assignments-For-Loops
-Assignment using For loops in Python
+# Python-Loops-Homework
+Assignment using loops in Python
 
 Create a new project for this work. Each exercise should be in it's own file.
 
