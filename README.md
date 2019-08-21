@@ -14,8 +14,9 @@ Create a loop that prints even numbers from 0 to and including 20
 Create an array of 4 numbers and print the sum of the numbers.
 
 ### Exercise 4:
-Use any loop to print all numbers between 0 and 100 that's a multiple of 4. Hint: You can find multiples of 4 with (number % 4 == 0)
+Use any loop to print all numbers between 0 and 100 that are even. Hint: You can find multiples of 2 with (whatever_number % 2 == 0)
 
-## Extra-ish Credit
+## Challenge
+
 ### Password Checker
 Ask the user to enter a password. Ask them to confirm the password. If it's not equal, keep asking until it's correct or they enter q to quit.
